@@ -23,14 +23,14 @@ Please follow the instructions below to get started with training and evaluating
 
 Clone the Repository:
 
-```git clone https://github.com/your-repo/robust-llm.git
+```
+git clone https://github.com/your-repo/robust-llm.git
 cd robust-llm
-Install Dependencies:
 pip install -r requirements.txt
-
+```
 Prepare the Data:
 Follow the instructions in data/README.md to set up your datasets.
-```
+
 ## Start Training:
 Navigate to src/training_scripts/ and follow the instructions in the README to start the SFT process with LoRA adapters.
 
