@@ -42,7 +42,7 @@ We welcome contributions! Please read CONTRIBUTING.md for how to contribute to t
 
 
 ## Support and Contact
-For support, questions, or to report an issue, please open an issue in the repository or contact the maintainers at contact@your-repo-domain.com.
+For support, questions, or to report an issue, please open an issue in the repository or contact the maintainers at alexander@darelabs.net
 
 ## Acknowledgments
 We would like to thank all the contributors and researchers in the field of adversarial machine learning for their insights and work, which have been instrumental in the development of this repository. Very specifically we would like to thank TDC 2023 for the data + base models used in this experiment! https://trojandetection.ai/
