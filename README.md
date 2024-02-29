@@ -37,5 +37,12 @@ Navigate to src/training_scripts/ and follow the instructions in the README to s
 ## Evaluate Robustness:
 Use the tools provided in src/detection/ and src/mitigation/ to evaluate the robustness of your trained models against backdoor attacks.
 
-Contribute:
+## Contribute:
 We welcome contributions! Please read CONTRIBUTING.md for how to contribute to the project.
+
+
+## Support and Contact
+For support, questions, or to report an issue, please open an issue in the repository or contact the maintainers at contact@your-repo-domain.com.
+
+## Acknowledgments
+We would like to thank all the contributors and researchers in the field of adversarial machine learning for their insights and work, which have been instrumental in the development of this repository. Very specifically we would like to thank TDC 2023 for the data + base models used in this experiment! https://trojandetection.ai/
